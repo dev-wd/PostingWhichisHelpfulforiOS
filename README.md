@@ -14,7 +14,7 @@
 - 힐링페이퍼 블로그
 - MVVM + RxSwift를 적용한 간단한 앱 구현
 - Input, Output을 명확하게 명시하여 구분
-- Data 최적화를 Transform 로직을 이용하여 구현 (ReactorKit의 컨셉고 비슷)
+- Data 최적화를 Transform 로직을 이용하여 구현
 - Test Code 작성, RxNimple 활용
 - VieModel뿐 아니라 Network Layer도 'Moya/RxSwift'를 활용항 개발함
 
