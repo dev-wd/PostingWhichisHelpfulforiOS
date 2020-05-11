@@ -33,14 +33,20 @@
 
 ## Managing enterprise-app
 ### [Enterprise 규모 앱 환경 구성 - 1](http://minsone.github.io/ios/mac/ios-enterprise-app-configuration-1)
+### [http://minsone.github.io/ios/mac/ios-enterprise-app-configuration-2](http://minsone.github.io/ios/mac/ios-enterprise-app-configuration-2)
 - 민소네님 포스팅
 - 기업규모 앱의 Layer 나누기
 - 라이브러리 의존성 제거, 불필요한 프로토콜 제거, 빌드 타임 감소
 
+### [디버깅 시작해버깅](https://speakerdeck.com/gaeun/dibeoging-sijaghaebeoging)
+- 가은님, Let us go 발표자료
+- 빌드 타임이 오래 걸리느 프로젝트엣 불필요한 build를 줄이기 위한 디버깅
+- LLDB와 친해지기
+
 ## Fastlane
 
 
-## Network Connection
+## Network 
 ### [Swift, Moya가 무엇인지, 어떻게 사용하는지 알아봅니다](https://devmjun.github.io/archive/Moya-Tutorial)
 - Moya Library에 대한 이해
 -  Alamofire와의 관계
