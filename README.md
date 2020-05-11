@@ -33,7 +33,7 @@
 
 ## Managing enterprise-app
 ### [Enterprise 규모 앱 환경 구성 - 1](http://minsone.github.io/ios/mac/ios-enterprise-app-configuration-1)
-### [http://minsone.github.io/ios/mac/ios-enterprise-app-configuration-2](http://minsone.github.io/ios/mac/ios-enterprise-app-configuration-2)
+### [Enterprise 규모 앱 환경 구성 - 2](http://minsone.github.io/ios/mac/ios-enterprise-app-configuration-2)
 - 민소네님 포스팅
 - 기업규모 앱의 Layer 나누기
 - 라이브러리 의존성 제거, 불필요한 프로토콜 제거, 빌드 타임 감소
