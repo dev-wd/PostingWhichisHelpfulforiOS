@@ -15,7 +15,7 @@
 - Input, Output을 명확하게 명시하여 구분
 - Data 최적화를 Transform 로직을 이용하여 구현 (ReactorKit의 컨셉고 비슷)
 - Test Code 작성, RxNimple 활용
-- VieModel뿐ㅇ 아니 Network Layer도 'Moya/RxSwift'를 활용항 개발함
+- VieModel뿐 아니라 Network Layer도 'Moya/RxSwift'를 활용항 개발함
 
 ## Test Code 
 ### [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/960290-ios-unit-testing-and-ui-testing-tutorial)
