@@ -1,14 +1,16 @@
 # iOS개발에 도움이 되는 포스팅 모음
 더 좋은 앱을 만들어 가기 위한 스터디를 하는 도중 꾸준히 보는 글들을 박-제-합니다👩🏻‍💻
-주니어 개발자의 학습목록
+__`주니어 개발자의 학습목록`__
 
 ## Clean Arthitecture for iOS
-
+###[iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM)
+- MVVM Templete Repository
+- Domain, Data, Presentation Layer에 대한 자세한 그림 및 프로젝트 제공
 ## RxSwift
 ### [Networking with RxSwift](https://www.netguru.com/codestories/networking-with-rxswift)
 - Networking 할 때 RxSwift를 적용하는 방법
 - ViewModel & ViewController에서만 RxSwift를 적용할 것인가? 
-- Networking Layer러 부터 RxSwift를 적용하는 것이 더 좋은가?
+- Networking Layer러 부터 RxSwift를 적용하는 것이 더 좋은가? 에 대한 고민을 할 때! 참고!
 
 ### [힐페TV - ViewModel을 무조건 믿을 수 있는 방법이 있다???(삐슝빠슝)](https://blog.gangnamunni.com/post/HealingPaperTV-ViewModel-Test)
 - 힐링페이퍼 블로그
@@ -45,6 +47,7 @@
 
 ## Fastlane
 
+## SwiftUI, and Combine
 
 ## Network 
 ### [Swift, Moya가 무엇인지, 어떻게 사용하는지 알아봅니다](https://devmjun.github.io/archive/Moya-Tutorial)
