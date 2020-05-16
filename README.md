@@ -48,6 +48,10 @@ __`주니어 개발자의 학습목록`__
 ## Fastlane
 
 ## SwiftUI, and Combine
+### [SwiftUI+MVVM](https://github.com/kitasuke/SwiftUI-MVVM)
+- SwiftUI+Combine으로 MVVM 아키텍쳐 구성
+- 일본분이 만드신 리포지토리, 스타가 350개 넘음
+- UI 및 Unit Test 또한 작성되어 있다.
 
 ## Network 
 ### [Swift, Moya가 무엇인지, 어떻게 사용하는지 알아봅니다](https://devmjun.github.io/archive/Moya-Tutorial)
