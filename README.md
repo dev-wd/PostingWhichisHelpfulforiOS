@@ -35,7 +35,7 @@ __`주니어 개발자의 학습목록`__
 
 ### [Testing Your RxSwift Code](https://www.raywenderlich.com/7408-testing-your-rxswift-code)
 - 프로젝트에서 RxTest, RxBlocking을 어떻게 적용하는지 학습
-- 다양한 환경에서 RxTest, RxBlocking 중 어느것을 사용하는 것이 적합한지 학습 
+- 다양한 환경에서 RxTest, RxBlocking 중 어느것을 사용하는 것이 적합한지 학습
 - 프로젝트 Test번들 처음 Add할 때 엉뚱하게 많이 해매는데 이를 말끔하게 해결해준 포스팅
 
 ## Managing enterprise-app
