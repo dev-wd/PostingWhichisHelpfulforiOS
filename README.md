@@ -21,6 +21,10 @@ __`주니어 개발자의 학습목록`__
 - VieModel뿐 아니라 Network Layer도 'Moya/RxSwift'를 활용항 개발함
 
 ## Test Code 
+### [UnitTest for Xcode](https://velog.io/@wimes/UnitTest-for-Xcode)
+- 한국어 리소스
+- Unit Test에 대한 기본적인 설명이 국내 자료는 내용을 많이 생략하고 방법만 적은 것이 많은데, 인과적으로 근거를 두고 잘 설명하고 있음
+- 
 ### [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/960290-ios-unit-testing-and-ui-testing-tutorial)
 - Raywenderlich의 Unit Test 예제
 - given, when, then의 순서를 지킴
@@ -32,6 +36,7 @@ __`주니어 개발자의 학습목록`__
 ### [Testing Your RxSwift Code](https://www.raywenderlich.com/7408-testing-your-rxswift-code)
 - 프로젝트에서 RxTest, RxBlocking을 어떻게 적용하는지 학습
 - 다양한 환경에서 RxTest, RxBlocking 중 어느것을 사용하는 것이 적합한지 학습 
+- 프로젝트 Test번들 처음 Add할 때 엉뚱하게 많이 해매는데 이를 말끔하게 해결해준 포스팅
 
 ## Managing enterprise-app
 ### [Enterprise 규모 앱 환경 구성 - 1](http://minsone.github.io/ios/mac/ios-enterprise-app-configuration-1)
