@@ -6,6 +6,11 @@ __`주니어 개발자의 학습목록`__
 ### [iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM)
 - MVVM Templete Repository
 - Domain, Data, Presentation Layer에 대한 자세한 그림 및 프로젝트 제공
+
+### [RxSwift+clean architecture - Tiendeo Tech](https://medium.com/tiendeo-tech/ios-rxswift-clean-architecture-d7e9eaa60ba)
+- MVVM + RxSwift (including Domain Layer,  Data Layer)
+- MVVM을 Presenter Layer ~ Data Layer를 RxSwift를 활용해 쓰는 예제를 잘 구성하였음
+
 ## RxSwift
 ### [Networking with RxSwift](https://www.netguru.com/codestories/networking-with-rxswift)
 - Networking 할 때 RxSwift를 적용하는 방법
