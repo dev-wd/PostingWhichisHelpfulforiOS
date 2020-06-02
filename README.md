@@ -2,6 +2,12 @@
 더 좋은 앱을 만들어 가기 위한 스터디를 하는 도중 꾸준히 보는 글들을 박-제-합니다👩🏻‍💻
 __`주니어 개발자의 학습목록`__
 
+
+## AutoLayout 
+### [Self-Sizing Table View Cells](https://baked-corn.tistory.com/124)
+- 이동건님 블로그
+- Cell의 높이를 동적으로 지정하는 것에 대한 여러 방법과 차이점이 서술되어 있음
+
 ## Clean Arthitecture for iOS
 ### [iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM)
 - MVVM Templete Repository
