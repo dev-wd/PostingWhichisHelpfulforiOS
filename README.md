@@ -1,5 +1,5 @@
 # iOS개발에 도움이 되는 포스팅 모음
-더 좋은 앱을 만들어 가기 위한 스터디를 하는 도중 꾸준히 보는 글들을 박-제-합니다👩🏻‍💻
+더 좋은 앱을 만들어 가기 위한 스터디를 하는 도중 국내외 꾸준히 보는 글들을 박-제-합니다👩🏻‍💻
 __`주니어 개발자의 학습목록`__
 
 
@@ -30,6 +30,10 @@ __`주니어 개발자의 학습목록`__
 - Data 최적화를 Transform 로직을 이용하여 구현
 - Test Code 작성, RxNimple 활용
 - VieModel뿐 아니라 Network Layer도 'Moya/RxSwift'를 활용항 개발함
+
+### [RxAnimated — animated bindings](https://medium.com/flawless-app-stories/rxanimated-animated-bindings-c5daa7f7d591)
+- RxCocoa 를 Extention으로 animation을 주는 방법
+- RxAnimated 추가 
 
 ## Test Code 
 ### [UnitTest for Xcode](https://velog.io/@wimes/UnitTest-for-Xcode)
