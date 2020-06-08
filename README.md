@@ -35,11 +35,16 @@ __`주니어 개발자의 학습목록`__
 - RxCocoa 를 Extention으로 animation을 주는 방법
 - RxAnimated 추가 
 
+### [RxSwift and Animations in iOS](https://www.toptal.com/ios/rxswift-animations-ios)
+- UIView.animate를 RxSwift에 넣지 않고 반응형으로 구현하는 방법 제시
+- Observable을 Create하고 스트림 단계를 연결하여 붙여줌으로써 반응형으로 구현하는 것이 가능하다.
+- 복잡하 Animation들의 통합이 필요할 때에 참고하기가 좋음
+
 ## Test Code 
 ### [UnitTest for Xcode](https://velog.io/@wimes/UnitTest-for-Xcode)
 - 한국어 리소스
 - Unit Test에 대한 기본적인 설명이 국내 자료는 내용을 많이 생략하고 방법만 적은 것이 많은데, 인과적으로 근거를 두고 잘 설명하고 있음
-- 
+
 ### [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/960290-ios-unit-testing-and-ui-testing-tutorial)
 - Raywenderlich의 Unit Test 예제
 - given, when, then의 순서를 지킴
