@@ -70,6 +70,11 @@ __`주니어 개발자의 학습목록`__
 - 빌드 타임이 오래 걸리느 프로젝트엣 불필요한 build를 줄이기 위한 디버깅
 - LLDB와 친해지기
 
+### [[Xcode][LLDB]Debugging With Xcode and LLDB](http://minsone.github.io/ios/mac/xcode-lldb-debugging-with-xcode-and-lldb)
+- 민소네님 포스팅 
+- 위 가은님의 발표자료가 기능에 따라 사용법을 발표를 했었다면, 민소네님은 LLDB 명령어를 중심으로 기술함
+- 실제 예제를 통해서 서술이 되어 따라해볼 수 있음
+
 ## Fastlane
 
 ## SwiftUI, and Combine
