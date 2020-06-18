@@ -76,6 +76,14 @@ __`주니어 개발자의 학습목록`__
 - 실제 예제를 통해서 서술이 되어 따라해볼 수 있음
 
 ## Fastlane
+### [Fastlane Docs](https://docs.fastlane.tools/getting-started/ios/setup/)
+- Fastlane 공식문서
+
+### [Fastlane 으로 iOS 빌드 과정을 손쉽게 자동화하자](https://sesang06.tistory.com/124)
+- 한국어 설명
+- 설치부터 배포까지 가장 기본적인 설명과 추가로 알면 좋은 기능들에 대해서 명시 및 레퍼런스르 달아 놓음
+
+
 
 ## SwiftUI, and Combine
 ### [SwiftUI+MVVM](https://github.com/kitasuke/SwiftUI-MVVM)
