@@ -67,7 +67,7 @@ __`주니어 개발자의 학습목록`__
 
 ### [디버깅 시작해버깅](https://speakerdeck.com/gaeun/dibeoging-sijaghaebeoging)
 - 가은님, Let us go 발표자료
-- 빌드 타임이 오래 걸리느 프로젝트엣 불필요한 build를 줄이기 위한 디버깅
+- 빌드 타임이 오래 걸리느 프로젝트에서 불필요한 build를 줄이기 위한 디버깅
 - LLDB와 친해지기
 
 ### [[Xcode][LLDB]Debugging With Xcode and LLDB](http://minsone.github.io/ios/mac/xcode-lldb-debugging-with-xcode-and-lldb)
@@ -81,14 +81,14 @@ __`주니어 개발자의 학습목록`__
 
 ### [Fastlane 으로 iOS 빌드 과정을 손쉽게 자동화하자](https://sesang06.tistory.com/124)
 - 한국어 설명
-- 설치부터 배포까지 가장 기본적인 설명과 추가로 알면 좋은 기능들에 대해서 명시 및 레퍼런스르 달아 놓음
+- 설치부터 배포까지 가장 기본적인 설명과 추가로 알면 좋은 기능들에 대해서 명시 및 레퍼런스를 달아 놓음
 
 
 
 ## SwiftUI, and Combine
 ### [SwiftUI+MVVM](https://github.com/kitasuke/SwiftUI-MVVM)
 - SwiftUI+Combine으로 MVVM 아키텍쳐 구성
-- 일본분이 만드신 리포지토리, 스타가 350개 넘음
+- 일본 분이 만드신 리포지토리, 스타가 350개 넘음
 - UI 및 Unit Test 또한 작성되어 있다.
 
 ## Network 
