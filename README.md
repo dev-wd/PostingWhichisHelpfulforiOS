@@ -75,6 +75,10 @@ __`주니어 개발자의 학습목록`__
 - 위 가은님의 발표자료가 기능에 따라 사용법을 발표를 했었다면, 민소네님은 LLDB 명령어를 중심으로 기술함
 - 실제 예제를 통해서 서술이 되어 따라해볼 수 있음
 
+### [iOS 서버별 자동배포 환경 구축 방법](https://magicmon.github.io/2019/01/07/iOS-Automated-Deployment-Environment/)
+- Xcode + Jenkins 설정을 통해 각 서버별로 자동배포 가능하도록 구축하는 방법
+- 코드 수정 없이 각 서버 및 조건 별로 배포가능 하도록 환경설정 하는 방법
+
 ## Fastlane
 ### [Fastlane Docs](https://docs.fastlane.tools/getting-started/ios/setup/)
 - Fastlane 공식문서
