@@ -83,10 +83,14 @@ __`주니어 개발자의 학습목록`__
 ### [Fastlane Docs](https://docs.fastlane.tools/getting-started/ios/setup/)
 - Fastlane 공식문서
 
-### [Fastlane 으로 iOS 빌드 과정을 손쉽게 자동화하자](https://sesang06.tistory.com/124)
-- 한국어 설명
-- 설치부터 배포까지 가장 기본적인 설명과 추가로 알면 좋은 기능들에 대해서 명시 및 레퍼런스를 달아 놓음
+### [Fastlane. tutorial: Getting Started](https://devmjun.github.io/archive/Fastlane)
+- 한국어 리소스
+- 각각의 lane들의 역할과 이를 응용하여 활용하는 방법을 구체적으로 적어놓았음
+- 이를 단순히 코드 하나로 실행하는 것을 넘어서서 다른 툴과 연동해서 사용하는 방법을 고민해야한다.
 
+### [Implementing fastlane from nothing to App Store, Josh Holtz](https://www.youtube.com/watch?v=6Jz-Ywxki0U)
+- 해외 유튜버, 처음하는 사람들이 순서대로 잘 따라할 수 있도록 단계별로 동영상으로 설명해줌
+- 2020.04.27 내 생일에 올라온 영상..
 
 
 ## SwiftUI, and Combine
