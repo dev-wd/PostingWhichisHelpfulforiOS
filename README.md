@@ -105,3 +105,10 @@ __`주니어 개발자의 학습목록`__
 ### [iOS 메모리 뜯어보기, 메모리 이슈 디버깅하기, 메모리 릭 찾기](https://seizze.github.io/2019/12/20/iOS-메모리-뜯어보기,-메모리-이슈-디버깅하기,-메모리-릭-찾기.html)
 - 메모리 뜯어보는 몇가지 방법 소개, 채완님 블로그
 - 설명이 디테일함, 해당 글의 레퍼런스를 참조해서 메모리 관리 전략을 짤 예정
+
+### [Practical Dependency Inversion in Swift](https://medium.com/flawless-app-stories/practical-dependency-inversion-in-swift-1c1142161a8)
+- 두 객체 사이의 강한 의존성 고리를 끊기 위해서 의존성을 역전하는 방식
+- 레츠스위프트 뉴스레터 8호 소개 해외글
+- 의존성 제거를 매니징하는 것에 대해 스탠다드가 없는데, 한가지 방법으로 공부하면 좋을것 같다는 생각
+
+
