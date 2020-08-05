@@ -92,6 +92,12 @@ __`주니어 개발자의 학습목록`__
 - 해외 유튜버, 처음하는 사람들이 순서대로 잘 따라할 수 있도록 단계별로 동영상으로 설명해줌
 - 2020.04.27 내 생일에 올라온 영상..
 
+## GitHub Action
+### [Github Actions ) Archive and export](https://zeddios.tistory.com/1033)
+- Zedd님 블로그
+- Github Action에서 배포를 할 때에 빌드가 선행되어야 함.
+- 빌드를 하기 위해서 Github Server에 개발자 인증서가 있어야하는데, 암호화에서 올리고 Action에 넣어주는 방법을 서술함
+
 
 ## SwiftUI, and Combine
 ### [SwiftUI+MVVM](https://github.com/kitasuke/SwiftUI-MVVM)
