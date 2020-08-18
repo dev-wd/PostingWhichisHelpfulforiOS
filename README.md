@@ -79,6 +79,10 @@ __`주니어 개발자의 학습목록`__
 - Xcode + Jenkins 설정을 통해 각 서버별로 자동배포 가능하도록 구축하는 방법
 - 코드 수정 없이 각 서버 및 조건 별로 배포가능 하도록 환경설정 하는 방법
 
+### [Bazel로 LINE의 iOS 앱 빌드 속도를 2배 빠르게!](https://engineering.linecorp.com/ko/blog/improving-build-performance-line-ios-bazel/)
+- 라인 기술블로그
+- Bazel + XcodeGen을 활용한 빌드 속도 개선 및 라이브러리 의존성 이슈 개선
+
 ## Fastlane
 ### [Fastlane Docs](https://docs.fastlane.tools/getting-started/ios/setup/)
 - Fastlane 공식문서
