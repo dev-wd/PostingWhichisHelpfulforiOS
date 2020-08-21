@@ -42,7 +42,7 @@ __`주니어 개발자의 학습목록`__
 
 ## Test Code 
 ### [UnitTest for Xcode](https://velog.io/@wimes/UnitTest-for-Xcode)
-- 한국어 리소스
+- 한국어 포스팅
 - Unit Test에 대한 기본적인 설명이 국내 자료는 내용을 많이 생략하고 방법만 적은 것이 많은데, 인과적으로 근거를 두고 잘 설명하고 있음
 
 ### [iOS Unit Testing and UI Testing Tutorial](https://www.raywenderlich.com/960290-ios-unit-testing-and-ui-testing-tutorial)
@@ -67,7 +67,7 @@ __`주니어 개발자의 학습목록`__
 
 ### [디버깅 시작해버깅](https://speakerdeck.com/gaeun/dibeoging-sijaghaebeoging)
 - 가은님, Let us go 발표자료
-- 빌드 타임이 오래 걸리느 프로젝트에서 불필요한 build를 줄이기 위한 디버깅
+- 빌드 타임이 오래 걸리 프로젝트에서 불필요한 빌드를 줄이기 위한 디버깅
 - LLDB와 친해지기
 
 ### [[Xcode][LLDB]Debugging With Xcode and LLDB](http://minsone.github.io/ios/mac/xcode-lldb-debugging-with-xcode-and-lldb)
@@ -120,7 +120,7 @@ __`주니어 개발자의 학습목록`__
 - Network Error, Mapping Error Handling을 한 스트림 내에서 처리가 가능함
 - JWT Token Refresh 또한 Retry로 원큐에 해결할 수 있을지 시도해보고 싶은 예제
 
-## Memory ManageMent
+## Memory Management
 ### [iOS 메모리 뜯어보기, 메모리 이슈 디버깅하기, 메모리 릭 찾기](https://seizze.github.io/2019/12/20/iOS-메모리-뜯어보기,-메모리-이슈-디버깅하기,-메모리-릭-찾기.html)
 - 메모리 뜯어보는 몇가지 방법 소개, 채완님 블로그
 - 설명이 디테일함, 해당 글의 레퍼런스를 참조해서 메모리 관리 전략을 짤 예정
