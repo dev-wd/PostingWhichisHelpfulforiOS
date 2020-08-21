@@ -115,6 +115,11 @@ __`주니어 개발자의 학습목록`__
 -  Alamofire와의 관계
 -  사용방법 및 장점
 
+### [Better networking with Moya + RxSwift](https://dev.to/mcontin/better-networking-with-moya-rxswift-1mlk)
+- Moya+RxSwift Service Layer에서 개인적으로 깔끔하게 구성한 예제라고 생각함
+- Network Error, Mapping Error Handling을 한 스트림 내에서 처리가 가능함
+- JWT Token Refresh 또한 Retry로 원큐에 해결할 수 있을지 시도해보고 싶은 예제
+
 ## Memory ManageMent
 ### [iOS 메모리 뜯어보기, 메모리 이슈 디버깅하기, 메모리 릭 찾기](https://seizze.github.io/2019/12/20/iOS-메모리-뜯어보기,-메모리-이슈-디버깅하기,-메모리-릭-찾기.html)
 - 메모리 뜯어보는 몇가지 방법 소개, 채완님 블로그
