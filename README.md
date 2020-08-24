@@ -53,6 +53,14 @@ __`주니어 개발자의 학습목록`__
 - 네트워크 테스트
 - 장점: 프로젝트 단위로 어떻게 테스트 코드를 작성하는지 참고가 가능
 
+
+### [Applying Unit Tests to MVVM with Swift](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18)
+- Q. 단순히 테스트코드를 작성하는 문제를 넘어서서 어떤 범위까지 우선순위로 테스트를 작성할 것인가?
+- Q. ViewModel을 테스트하려면 의존되어 있는 Service, Repository를 다 테스트해야하는가?
+- Q. Mock, Stub을 우리 프로젝트에서는 어떤식으로 구성할까?
+- 위 질문들에 대해서 하나의 좋은 예제가 되었다. 
+- 프로젝트에 따라 유연하게 작성되어야 하는 것이 TestCode라 스터디하는데 있어 다양한 예제를 참고해야 한다.
+
 ### [Testing Your RxSwift Code](https://www.raywenderlich.com/7408-testing-your-rxswift-code)
 - 프로젝트에서 RxTest, RxBlocking을 어떻게 적용하는지 학습
 - 다양한 환경에서 RxTest, RxBlocking 중 어느것을 사용하는 것이 적합한지 학습
