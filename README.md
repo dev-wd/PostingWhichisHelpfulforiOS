@@ -144,4 +144,10 @@ __`주니어 개발자의 학습목록`__
 - 레츠스위프트 뉴스레터 8호 소개 해외글
 - 의존성 제거를 매니징하는 것에 대해 스탠다드가 없는데, 한가지 방법으로 공부하면 좋을것 같다는 생각
 
+### [wkwebview message handler memory leak(쉽게 실수하는 WKWebView 메모리 누수 수정)](http://monibu1548.github.io/2019/11/17/wkwebview-memory-leak/)
+- WKWebView 에서 메모리 누수가 발생하는 주요 원인과 해결책
+- 꼭 WebView에서의 상황이 아니더라도 'add()' 함수가 strong 일 때에, 트램폴린 패턴을 활용하여 해결할 수 있다.
+
+
+
 
