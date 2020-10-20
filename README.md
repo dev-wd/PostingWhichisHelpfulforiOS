@@ -9,10 +9,10 @@ __`주니어 개발자의 학습목록`__
 - Cell의 높이를 동적으로 지정하는 것에 대한 여러 방법과 차이점이 서술되어 있음
 
 ### [(iOS swift) 테이블뷰 - TableView](https://m.blog.naver.com/PostView.nhn?blogId=jdub7138&logNo=220958881556&proxyReferer=https:%2F%2Fwww.google.com%2F)
-- 여러가지 상황에서의 테이블뷰를 이용하는 방법을 제시
+- 여러가지 상황에서의 테이블뷰를 이용하는 방법을 제시, 한국어 블로그
 - 행 삽입, 행 삭제, 행 수정
 - 제공해주는 함수로 행 이동하기
-- 커슨텀하여 행 이동 동작 구현하기
+- 커스텀하여 행 이동 동작 구현하기
 
 ## Clean Arthitecture for iOS
 ### [iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM)
