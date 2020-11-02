@@ -157,4 +157,7 @@ __`주니어 개발자의 학습목록`__
 - 우아한형제들 기술 블로그
 - Swift Lintermediate Language 에 대해서 대략적으로 알아볼 수 있는 포스팅
 
+### [SIL(Swift Intermediate Language)을 통한 Swift debugging](https://woowabros.github.io/swift/2018/03/18/swift-debugging-with-SIL.html)
+- 우아한형제들 기술 블로그
+- Swift 간단한 코드들을 SIL로 빌드해보는 예제 
 
