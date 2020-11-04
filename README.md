@@ -161,3 +161,8 @@ __`주니어 개발자의 학습목록`__
 - 우아한형제들 기술 블로그
 - Swift 간단한 코드들을 SIL로 빌드해보는 예제 
 
+
+## Opensource Developement
+### [Library를 CocoaPods에 배포하는 방법](https://jinnify.tistory.com/61)
+- 오픈소스 배포에 괸해 한국어로 간단하고 쉽게 설명해놓은 블로그.
+- CocoaPod
