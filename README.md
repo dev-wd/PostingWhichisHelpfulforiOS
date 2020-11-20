@@ -79,6 +79,13 @@ __`주니어 개발자의 학습목록`__
 - 기업규모 앱의 Layer 나누기
 - 라이브러리 의존성 제거, 불필요한 프로토콜 제거, 빌드 타임 감소
 
+### [Framework Part 1 : Static Framework와 Dynamic Framework](http://minsone.github.io/ios/mac/ios-framework-part-1-static-framework-dynamic-framework)
+### [Framework Part 2 : 프로젝트, 서브 프로젝트, Dependencies, 그리고 Static, Dynamic Framework](http://minsone.github.io/ios/mac/ios-framework-part-2-project-subproject-dependencies)
+### [Framework Part 3 : Storyboard, Xib, Color, Image를 리소스 프레임워크에서 관리](http://minsone.github.io/ios/mac/ios-managing-color-image-storyboard-xib-from-resources-framework)
+- 민소네님 포스팅
+- Framework를 활용하여 모듈화를 잘 하는 방법을 세세하게 설명한 포스팅
+- Library Link, Dependency에 대한 이해를 위해 공부가 필요
+
 ### [디버깅 시작해버깅](https://speakerdeck.com/gaeun/dibeoging-sijaghaebeoging)
 - 가은님, Let us go 발표자료
 - 빌드 타임이 오래 걸리 프로젝트에서 불필요한 빌드를 줄이기 위한 디버깅
