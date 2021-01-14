@@ -23,7 +23,7 @@ __`주니어 개발자의 학습목록`__
 - MVVM + RxSwift (including Domain Layer,  Data Layer)
 - MVVM을 Presenter Layer ~ Data Layer를 RxSwift를 활용해 쓰는 예제를 잘 구성하였음
 
-### [devxoul/Drrrible] (https://github.com/devxoul/Drrrible)
+### [devxoul/Drrrible](https://github.com/devxoul/Drrrible)
 - 전수열님의 ReactorKit을 활용한 예제 프로젝트
 - ReactorKit을 이용한 Clean Architecture을 어떻게 가져가는 것이 좋은지 참고할 수 
 
