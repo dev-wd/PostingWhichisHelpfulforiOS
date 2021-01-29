@@ -178,7 +178,7 @@ __`주니어 개발자의 학습목록`__
 - Swift 간단한 코드들을 SIL로 빌드해보는 예제 
 
 ## Dependency
-## [의존관계역전 (Dependency Inversion Principle) - bearkode](https://github.com/bearkode/SwiftOOP/issues/2)
+### [의존관계역전 (Dependency Inversion Principle) - bearkode](https://github.com/bearkode/SwiftOOP/issues/2)
 - 의존성 관리의 필요 이유에 대해 한국어로 가장 잘 설명된 글
 - 의존성 역전이 필요한 이유, 그리고 방법을 가장 잘 이해하게 된 계기가 된 글임.
 
