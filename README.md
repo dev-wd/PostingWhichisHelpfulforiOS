@@ -72,6 +72,9 @@ __`주니어 개발자의 학습목록`__
 - 네트워크 테스트
 - 장점: 프로젝트 단위로 어떻게 테스트 코드를 작성하는지 참고가 가능
 
+### [How to test deep links with UI Testing](https://masilotti.com/test-deep-links-with-ui-testing/)
+- Deeplink 로직을 테스트하는 방법에 대해 기술
+- Local Server와 사파리를 
 
 ### [Applying Unit Tests to MVVM with Swift](https://medium.com/flawless-app-stories/applying-unit-tests-to-mvvm-with-swift-ba5a79df8a18)
 - Q. 단순히 테스트코드를 작성하는 문제를 넘어서서 어떤 범위까지 우선순위로 테스트를 작성할 것인가?
