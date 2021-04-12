@@ -31,6 +31,10 @@ __`주니어 개발자의 학습목록`__
 - 빌더패턴을 여러가지 방식으로 구현할 수 있지만, 함수형으로 구현할 수 있는 방법이 소개됩니다.
 - 파라미터를 동일한 형식으로 직관적으로 가져갈 수 있다는 장점이 있습니다.
 
+
+### [iOS Dev Course: Repository with Realm](https://medium.com/@vialyx/ios-dev-course-repository-with-realm-983f210c5408)
+- Realm 및 Local Data Repository 생성방법 
+
 ## RxSwift
 ### [Networking with RxSwift](https://www.netguru.com/codestories/networking-with-rxswift)
 - Networking 할 때 RxSwift를 적용하는 방법
