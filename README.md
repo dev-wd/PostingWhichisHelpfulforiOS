@@ -35,6 +35,13 @@ __`주니어 개발자의 학습목록`__
 ### [iOS Dev Course: Repository with Realm](https://medium.com/@vialyx/ios-dev-course-repository-with-realm-983f210c5408)
 - Realm 및 Local Data Repository 생성방법 
 
+## UICollectionView and Cells
+### [Drag and Drop Tutorial for iOS](https://www.raywenderlich.com/3121851-drag-and-drop-tutorial-for-ios)
+- Raywenderlich 예제
+- UICollectionView Drag and Drop을 구현하는 예제
+- 동일 CollectionView, 다른 CollectionView, 다른 앱 모두가 대응 가능하다.
+- IndexPath를 기준으로 끊기 때문에 ViewModel 기준으로 가져가는 경우에 대해서 추가 고민이 필요하다.
+
 ## RxSwift
 ### [Networking with RxSwift](https://www.netguru.com/codestories/networking-with-rxswift)
 - Networking 할 때 RxSwift를 적용하는 방법
