@@ -200,6 +200,12 @@ __`주니어 개발자의 학습목록`__
 - 의존성 관리의 필요 이유에 대해 한국어로 가장 잘 설명된 글
 - 의존성 역전이 필요한 이유, 그리고 방법을 가장 잘 이해하게 된 계기가 된 글임.
 
+
+### [[iOS][Swift] 모듈간의 관계를 Dependency Injection Container으로 풀어보자](https://minsone.github.io/programming/swift-solved-circular-dependency-from-dependency-injection-container)
+- 의존성 관리를 할 때에 Swinject를 쓰는 이유가 설명이 됌
+- 순환 종속성의 상황에 대한 이해를 할 수 있음
+
+
 ## Opensource Developement
 ### [Library를 CocoaPods에 배포하는 방법](https://jinnify.tistory.com/61)
 - 오픈소스 배포에 괸해 한국어로 간단하고 쉽게 설명해놓은 블로그.
