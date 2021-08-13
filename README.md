@@ -205,6 +205,11 @@ __`주니어 개발자의 학습목록`__
 - 의존성 관리를 할 때에 Swinject를 쓰는 이유가 설명이 됌
 - 순환 종속성의 상황에 대한 이해를 할 수 있음
 
+## Realm
+### [Concurrency/Multi threading in Realm (RealmSwift Part 4)
+](https://ali-akhtar.medium.com/concurrency-multi-threading-in-realm-realmswift-part-4-2345deabe512)
+- Concurrency 관련해서 Realm은 이슈가 많은데 이를 해결하는 방법을 잘 정리해놓은 포스팅
+- 이 외에도 성능 향상을 위한 기본적인 가이드라인 또한 서술되어 있음
 
 ## Opensource Developement
 ### [Library를 CocoaPods에 배포하는 방법](https://jinnify.tistory.com/61)
