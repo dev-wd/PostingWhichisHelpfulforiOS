@@ -187,6 +187,9 @@ __`주니어 개발자의 학습목록`__
 - WKWebView 에서 메모리 누수가 발생하는 주요 원인과 해결책
 - 꼭 WebView에서의 상황이 아니더라도 'add()' 함수가 strong 일 때에, 트램폴린 패턴을 활용하여 해결할 수 있다.
 
+### [iOS) 타 언어의 GC와 Swift ARC의 차이](https://sihyungyou.github.io/iOS-GC-vs-ARC/)
+- 타언어의 갈비지콜렉션과 Swift의 ARC를 비교한 글
+
 ## Compilier
 ### [SIL Docs](https://github.com/apple/swift/blob/main/docs/SIL.rst#silgen)
 - Swift Intermediate Language  GitHub Swift Documentation.
