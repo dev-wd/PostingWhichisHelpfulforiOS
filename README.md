@@ -173,6 +173,11 @@ __`주니어 개발자의 학습목록`__
 - 메모리 뜯어보는 몇가지 방법 소개, 채완님 블로그
 - 설명이 디테일함, 해당 글의 레퍼런스를 참조해서 메모리 관리 전략을 짤 예정
 
+### [Value Type and Reference Types in Swift](https://www.vadimbulavin.com/value-types-and-reference-types-in-swift/)
+- Heap, Stack의 Swift에서의 운영 방법
+- Value Type, Reference Type
+- 메모리 관리를 SIL과 Xcode Build Level부터 이해하자
+
 ### [Practical Dependency Inversion in Swift](https://medium.com/flawless-app-stories/practical-dependency-inversion-in-swift-1c1142161a8)
 - 두 객체 사이의 강한 의존성 고리를 끊기 위해서 의존성을 역전하는 방식
 - 레츠스위프트 뉴스레터 8호 소개 해외글
