@@ -190,6 +190,10 @@ __`주니어 개발자의 학습목록`__
 ### [iOS) 타 언어의 GC와 Swift ARC의 차이](https://sihyungyou.github.io/iOS-GC-vs-ARC/)
 - 타언어의 갈비지콜렉션과 Swift의 ARC를 비교한 글
 
+### [Swift가 제공하는 여러 포인터 타입들과 동작 방식](https://academy.realm.io/kr/posts/nate-cook-tryswift-tokyo-unsafe-swift-and-pointer-types/)
+- 스위프트의 안정성에 대해 소개
+- Swift에서 pointer 접근을 할 수 있는 방법을 서술 및 사용 예제 공유
+
 ## Compilier
 ### [SIL Docs](https://github.com/apple/swift/blob/main/docs/SIL.rst#silgen)
 - Swift Intermediate Language  GitHub Swift Documentation.
