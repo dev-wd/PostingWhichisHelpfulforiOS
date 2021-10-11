@@ -194,6 +194,12 @@ __`주니어 개발자의 학습목록`__
 - 스위프트의 안정성에 대해 소개
 - Swift에서 pointer 접근을 할 수 있는 방법을 서술 및 사용 예제 공유
 
+## CPU Processing
+### [[iOS] 앱의 생명주기(App Life Cycle)와 앱의 구조(App Structure)](https://jinshine.github.io/2018/05/28/iOS/%EC%95%B1%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0(App%20Life%20Cycle)%EC%99%80%20%EC%95%B1%EC%9D%98%20%EA%B5%AC%EC%A1%B0(App%20Structure)/)
+- AppLifeCycle을 구조적으로 이해하기
+- main함수, applicatinMain함수, UIApplication, UIApplicationDelegate에 대한 정의
+- MainRunLoop의 동작 과정을 
+
 ## Compilier
 ### [SIL Docs](https://github.com/apple/swift/blob/main/docs/SIL.rst#silgen)
 - Swift Intermediate Language  GitHub Swift Documentation.
