@@ -194,6 +194,10 @@ __`주니어 개발자의 학습목록`__
 - 스위프트의 안정성에 대해 소개
 - Swift에서 pointer 접근을 할 수 있는 방법을 서술 및 사용 예제 공유
 
+### [Swift의 Type과 메모리 저장 공간](https://sujinnaljin.medium.com/ios-swift%EC%9D%98-type%EA%B3%BC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%A0%80%EC%9E%A5-%EA%B3%B5%EA%B0%84-25555c69ccff)
+- Swift 메모리공간과 Type에 대해 이해하다보면 다양한 경우의 수에 타입들이 어떤 방식으로 메모리공간에 저장되는지 의문이 들 때가 있다.
+- 이에 관한 부분들을 개괄적으로나마 서술이 되어있는 글
+
 ## CPU Processing
 ### [[iOS] 앱의 생명주기(App Life Cycle)와 앱의 구조(App Structure)](https://jinshine.github.io/2018/05/28/iOS/%EC%95%B1%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0(App%20Life%20Cycle)%EC%99%80%20%EC%95%B1%EC%9D%98%20%EA%B5%AC%EC%A1%B0(App%20Structure)/)
 - AppLifeCycle을 구조적으로 이해하기
