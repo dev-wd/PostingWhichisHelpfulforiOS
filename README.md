@@ -25,7 +25,7 @@ __`주니어 개발자의 학습목록`__
 
 ### [devxoul/Drrrible](https://github.com/devxoul/Drrrible)
 - 전수열님의 ReactorKit을 활용한 예제 프로젝트
-- ReactorKit을 이용한 Clean Architecture을 어떻게 가져가는 것이 좋은지 참고할 수 
+- ReactorKit을 이용한 Clean Architecture을 어떻게 가져가는 것이 좋은지 참고할 수 있다.
 
 ### [Builder Pattern In Swift](https://medium.com/@m.delgiudice/builder-pattern-in-swift-ce87b40de597)
 - 빌더패턴을 여러가지 방식으로 구현할 수 있지만, 함수형으로 구현할 수 있는 방법이 소개됩니다.
@@ -202,7 +202,7 @@ __`주니어 개발자의 학습목록`__
 ### [[iOS] 앱의 생명주기(App Life Cycle)와 앱의 구조(App Structure)](https://jinshine.github.io/2018/05/28/iOS/%EC%95%B1%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0(App%20Life%20Cycle)%EC%99%80%20%EC%95%B1%EC%9D%98%20%EA%B5%AC%EC%A1%B0(App%20Structure)/)
 - AppLifeCycle을 구조적으로 이해하기
 - main함수, applicatinMain함수, UIApplication, UIApplicationDelegate에 대한 정의
-- MainRunLoop의 동작 과정을 
+- MainRunLoop의 동작 과정을 이해할 수 있음
 
 ## Compilier
 ### [SIL Docs](https://github.com/apple/swift/blob/main/docs/SIL.rst#silgen)
@@ -231,11 +231,6 @@ __`주니어 개발자의 학습목록`__
 ### [Concurrency/Multi threading in Realm (RealmSwift Part 4)](https://ali-akhtar.medium.com/concurrency-multi-threading-in-realm-realmswift-part-4-2345deabe512)
 - Concurrency 관련해서 Realm은 이슈가 많은데 이를 해결하는 방법을 잘 정리해놓은 포스팅
 - 이 외에도 성능 향상을 위한 기본적인 가이드라인 또한 서술되어 있음
-
-### [Dive into CFRunLoop](https://suelan.github.io/2021/02/13/20210213-dive-into-runloop-ios/)
-- realm observing은 hot 하지 않은 쓰레드에서 돌지 못함
-- background thread에서 돌려주고 싶은데, 이는 hot하지 않은데 어떻게 해야할까?
-- 이를 위해서 CFRunLoop를 활용할 수 있다.
 
 ## Opensource Developement
 ### [Library를 CocoaPods에 배포하는 방법](https://jinnify.tistory.com/61)
