@@ -157,6 +157,11 @@ __`주니어 개발자의 학습목록`__
 - 일본 분이 만드신 리포지토리, 스타가 350개 넘음
 - UI 및 Unit Test 또한 작성되어 있다.
 
+### [Routing in SwiftUI](https://betterprogramming.pub/routing-in-swiftui-1dc87b7a47c7)
+- 클린아키텍쳐를 SwiftUI에서 어떻게 다룰지에 대해 검색이 자주되는 [위글](https://nalexn.github.io/clean-architecture-swiftui/)에서 "라우팅은 SwiftUI에서 추출하기 힘들다.", 
+"기존 클린아키텍쳐에서의 라우팅, 또는 RIBs는 적합하지 않다."는 주장에 대해서 동의하고 싶지 않아.. 찾아보는 글.
+- SwuftUI에서 Router를 만든 예시
+
 ## Network 
 ### [Swift, Moya가 무엇인지, 어떻게 사용하는지 알아봅니다](https://devmjun.github.io/archive/Moya-Tutorial)
 - Moya Library에 대한 이해
