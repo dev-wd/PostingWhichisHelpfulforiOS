@@ -14,6 +14,10 @@ __`주니어 개발자의 학습목록`__
 - 제공해주는 함수로 행 이동하기
 - 커스텀하여 행 이동 동작 구현하기
 
+### [[iOS - swift] UIKit에서 SwiftUI의 Preview 사용 방법](https://ios-development.tistory.com/488)
+- UIKit에서 SwiftUI의 Preview 사용방법
+- SwiftUI 사용 장점 중에 하나로 view의 Hot reload 기능을 하나로 꼽는데 이를 UIKit에서도 사용할 수 있게 하는 방법
+
 ## Clean Arthitecture for iOS
 ### [iOS-Clean-Architecture-MVVM](https://github.com/kudoleh/iOS-Clean-Architecture-MVVM)
 - MVVM Templete Repository
