@@ -245,3 +245,8 @@ __`주니어 개발자의 학습목록`__
 ### [Library를 CocoaPods에 배포하는 방법](https://jinnify.tistory.com/61)
 - 오픈소스 배포에 괸해 한국어로 간단하고 쉽게 설명해놓은 블로그.
 - CocoaPod
+
+## Accessability
+### [iPhone의 VoiceOver 제스처 알아보기](https://support.apple.com/ko-kr/guide/iphone/iph3e2e2281/ios)
+- VoiceOver 기능의 제스쳐를 어떻게 사용하는지 명시해놓은 애플 공식 문서
+- 처음 VoiceOver를 쓰는 상황에서 익숙하지 않은데, 각 제스쳐를 어떻게 사용하는지 정의되어 있음.
